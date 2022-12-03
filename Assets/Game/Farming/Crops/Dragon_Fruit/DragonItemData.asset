@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37556f915f27f6a49973b0e4f9ee8137, type: 3}
+  m_Name: DragonItemData
+  m_EditorClassIdentifier: 
+  <ItemName>k__BackingField: Dragon fruit
+  <ItemIcon>k__BackingField: {fileID: 21300000, guid: 0552856ba84158647b238d2fbb1dd067, type: 3}
+  <ItemCost>k__BackingField: 3
+  <WorldItem>k__BackingField: {fileID: 97234122650693460, guid: 407084906c4a1b9408eb85998c45e58b, type: 3}
+  <CropData>k__BackingField: {fileID: 11400000, guid: a7efbe641bafb944fb06adf8716a0e03, type: 2}

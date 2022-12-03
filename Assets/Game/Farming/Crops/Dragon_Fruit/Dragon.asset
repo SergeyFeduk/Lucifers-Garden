@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c56687d304f2244ad0663a0324a710, type: 3}
+  m_Name: Dragon
+  m_EditorClassIdentifier: 
+  stages:
+  - tile: {fileID: 11400000, guid: 8d9da060b35cdba42b6eff40b332ef7d, type: 2}
+    actionDescription: 
+    timeToGrow: 2
+  - tile: {fileID: 11400000, guid: 1b576df651af15d44b04e17ee9451852, type: 2}
+    actionDescription: 
+    timeToGrow: 2
+  - tile: {fileID: 11400000, guid: 8252a9f58fda89d42b48fa33f2ac3198, type: 2}
+    actionDescription: Harvest
+    timeToGrow: 0
+  item: {fileID: 11400000, guid: 113cb8dbb496e8f469dfaec63fb2cc58, type: 2}

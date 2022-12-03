@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c56687d304f2244ad0663a0324a710, type: 3}
+  m_Name: Aubergine
+  m_EditorClassIdentifier: 
+  stages:
+  - tile: {fileID: 11400000, guid: 52cc76a1c2f694643a3105f260d046fa, type: 2}
+    actionDescription: 
+    timeToGrow: 3
+  - tile: {fileID: 11400000, guid: d7cf9916f8b527444b42d099574dd54d, type: 2}
+    actionDescription: 
+    timeToGrow: 4
+  - tile: {fileID: 11400000, guid: f2b1b9ebe3f2a5b48969aadd0b1dd103, type: 2}
+    actionDescription: 
+    timeToGrow: 0
+  item: {fileID: 11400000, guid: f188f2812a24b0543b631ae6d3bf47d4, type: 2}

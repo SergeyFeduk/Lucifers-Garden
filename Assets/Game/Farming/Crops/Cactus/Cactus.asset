@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c56687d304f2244ad0663a0324a710, type: 3}
+  m_Name: Cactus
+  m_EditorClassIdentifier: 
+  stages:
+  - tile: {fileID: 11400000, guid: ff6b77d7c3c71474e92f76ab2d4c78a4, type: 2}
+    actionDescription: 
+    action: 0
+    timeToGrow: 0
+  - tile: {fileID: 11400000, guid: 4680599bf8aabb0419be5982d836992f, type: 2}
+    actionDescription: 
+    action: 0
+    timeToGrow: 0
+  - tile: {fileID: 11400000, guid: d0f81c25d95a55a4e96eab215126f5fa, type: 2}
+    actionDescription: 
+    action: 0
+    timeToGrow: 0
